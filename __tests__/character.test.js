@@ -1,4 +1,4 @@
-const Character = require('../src/character');
+const Character = require('../src/character.js');
 
 describe('character', () => {
   let character;

@@ -1,5 +1,5 @@
 /* eslint-disable func-names */
-const Player = require('../src/player');
+const Player = require('../src/player.js');
 
 describe('constructor function', () => {
   let player;

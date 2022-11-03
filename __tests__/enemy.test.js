@@ -1,5 +1,5 @@
 /* eslint-disable func-names */
-const Enemy = require('../src/enemy');
+const Enemy = require('../src/enemy.js');
 
 describe('enemy', () => {
   let enemy;

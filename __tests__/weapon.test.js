@@ -1,4 +1,4 @@
-const Weapon = require('../src/weapon');
+const Weapon = require('../src/weapon.js');
 
 describe('constructor function', () => {
   let weapon;
